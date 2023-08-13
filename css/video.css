@@ -1,0 +1,764 @@
+.icones{
+   width: 13%;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.fotin{
+   width: 12%;
+    margin-top: -4%;
+    margin-left: 46%;
+}
+.plusmarket{
+    color: white;
+    text-shadow: 
+    -1px -1px 1px #000000,
+    -1px 1px 1px #000000,                    
+    1px -1px 1px #000000,                 
+    1px 0px 1px #000000;
+    margin-left: 40%;
+    margin-top: -1.5%; 
+    font-size: 290%;
+    font-family: 'Lobster', cursive;
+ }
+ .dropdown ul{
+    list-style-type: none;
+    padding-left: 90%;
+ }
+ .dropdown ul{
+    background-color: #7c7c7c;
+    padding: 0%;
+ }
+ .dropdown ul li{
+    display: inline;
+    position: relative;
+ }
+ .dropdown ul li a{
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    transition: background .3s;
+    font-size: 150%;
+ }
+ .dropdown ul li a:hover{
+    color: #ffe8e8;
+    background-color: #e4afaf;
+ }
+ .dropdown ul ul{
+    display: none;
+    position: absolute;
+    width: 150%;
+ }
+ .dropdown ul li:hover ul{
+    display: block;
+ }
+ .dropdown ul ul li a{
+    display: block;
+ }
+ .divBusca{
+    background-color:#D9D9D9;
+    border-radius: 20px;
+    width:80%;
+    margin-left: 10%;
+    margin-top: 3%;
+  }
+  .txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:2%;
+    margin-top: 1%;
+    font-size:120%;
+    border:none;
+    height:20%;
+    width:70%;
+  }
+  .lupa{
+    margin-left: 95%;
+  }
+  .centro{
+   width: 85%;
+   padding-top: 63%;
+   display: flex;
+   flex-direction: column;
+   margin-left: 8%;
+   margin-top: 4.5%;
+   background-color: #d9d9d9;
+   border-radius: 30px;
+}
+.bloco1{
+   display: flex;
+   flex-direction: column;
+   width: 19%;
+   background-color: #000000;
+   margin-top: -70%;
+   margin-left: 5%;
+   padding-top: 28%;
+   border-radius: 20px;
+}
+.img1{
+   width: 70%;
+   margin-left: 14%;
+   margin-top: -135%;
+}
+.plays5{
+   width: 75%;
+   margin-left: 15%;
+   margin-top: 10%;
+   text-align: center;
+   color: white;
+   font-family:Arial, Helvetica, sans-serif;
+   font-size: 90%;
+}
+.preço1{
+   text-align: center;
+   margin-top: 17%;
+   font-size: 120%;
+   color: white;
+   text-shadow: 
+   1px 1px 1px #ffffff,
+   1px 1px 1px #ffffff,                    
+   1px 1px 1px #ffffff,                 
+   1px 0px 1px #ffffff;
+}
+.bloco2{
+   display: flex;
+   flex-direction: column;
+   width: 19%;
+   background-color: #000000;
+   margin-top: -28%;
+   margin-left: 40%;
+   padding-top: 28%;
+   border-radius: 20px;
+}
+.img2{
+   width: 82%;
+   margin-left: 10%;
+   margin-top: -135%;
+}
+.nintendo{
+   width: 75%;
+   margin-left: 13%;
+   margin-top: 20%;
+   text-align: center;
+   color: white;
+   font-family:Arial, Helvetica, sans-serif;
+   font-size: 90%;
+}
+.preço2{
+   text-align: center;
+   margin-top: 25%;
+   font-size: 120%;
+   color: white;
+   text-shadow: 
+   1px 1px 1px #ffffff,
+   1px 1px 1px #ffffff,                    
+   1px 1px 1px #ffffff,                 
+   1px 0px 1px #ffffff;
+}
+.bloco3{
+   display: flex;
+   flex-direction: column;
+   width: 19%;
+   background-color: #000000;
+   margin-top: -28%;
+   margin-left: 76%;
+   padding-top: 28%;
+   border-radius: 20px;
+}
+.img3{
+   width: 74%;
+   margin-left: 13%;
+   margin-top: -135%;
+}
+.controle{
+   width: 75%;
+   margin-left: 13%;
+   margin-top: 10%;
+   text-align: center;
+   color: white;
+   font-family:Arial, Helvetica, sans-serif;
+   font-size: 90%;
+}
+.preço3{
+   text-align: center;
+   margin-top: 24.7%;
+   font-size: 120%;
+   color: white;
+   text-shadow: 
+   1px 1px 1px #ffffff,
+   1px 1px 1px #ffffff,                    
+   1px 1px 1px #ffffff,                 
+   1px 0px 1px #ffffff;
+}
+.bloco4{
+   display: flex;
+   flex-direction: column;
+   width: 19%;
+   background-color: #000000;
+   margin-top: 10%;
+   margin-left: 5%;
+   padding-top: 28%;
+   border-radius: 20px;
+}
+.img4{
+   width: 60%;
+   margin-left: 20%;
+   margin-top: -135%;
+}
+.fonegamer{
+   width: 75%;
+   margin-left: 14%;
+   margin-top: 5%;
+   text-align: center;
+   color: white;
+   font-family:Arial, Helvetica, sans-serif;
+   font-size: 90%;
+}
+.preço4{
+   text-align: center;
+   margin-top: 15%;
+   font-size: 120%;
+   color: white;
+   text-shadow: 
+   1px 1px 1px #ffffff,
+   1px 1px 1px #ffffff,                    
+   1px 1px 1px #ffffff,                 
+   1px 0px 1px #ffffff;
+}
+.bloco5{
+   display: flex;
+   flex-direction: column;
+   width: 19%;
+   background-color: #000000;
+   margin-top: -28%;
+   margin-left: 40%;
+   padding-top: 28%;
+   border-radius: 20px;
+}
+.img5{
+   width: 60%;
+   margin-left: 20%;
+   margin-top: -135%;
+}
+.xbox{
+   width: 75%;
+   margin-left: 13%;
+   margin-top: 5%;
+   text-align: center;
+   color: white;
+   font-family:Arial, Helvetica, sans-serif;
+   font-size: 90%;
+}
+.preço5{
+   text-align: center;
+   margin-top: 15%;
+   font-size: 120%;
+   color: white;
+   text-shadow: 
+   1px 1px 1px #ffffff,
+   1px 1px 1px #ffffff,                    
+   1px 1px 1px #ffffff,                 
+   1px 0px 1px #ffffff;
+}
+.bloco6{
+   display: flex;
+   flex-direction: column;
+   width: 19%;
+   background-color: #000000;
+   margin-top: -28%;
+   margin-left: 76%;
+   padding-top: 28%;
+   border-radius: 20px;
+}
+.img6{
+   width: 75%;
+   margin-left: 13%;
+   margin-top: -135%;
+}
+.god{
+   width: 75%;
+   margin-left: 13%;
+   margin-top: 10%;
+   text-align: center;
+   color: white;
+   font-family:Arial, Helvetica, sans-serif;
+   font-size: 90%;
+}   
+.preço6{
+   text-align: center;
+   margin-top: 15%;
+   font-size: 120%;
+   color: white;
+   text-shadow: 
+   1px 1px 1px #ffffff,
+   1px 1px 1px #ffffff,                    
+   1px 1px 1px #ffffff,                 
+   1px 0px 1px #ffffff;
+}
+.circulo1{
+   display: flex;
+   flex-direction: column;
+   width: 1%;
+   height: 10%;
+   background-color: #D9D9D9;
+   border-radius: 50%;
+   padding-top: 5%;
+   padding-left: 5%;
+   margin-top: 10%;
+   margin-left: 35%;
+}
+.seta1{
+   margin-top: -350%;
+   margin-left: -250%;
+   font-size: 180%;
+   text-shadow: 
+   1px 1px 1px #000000,
+   1px 1px 1px #000000,                    
+   1px 1px 1px #000000,                 
+   1px 0px 1px #000000;
+}
+.circulo2{
+ display: flex;
+ flex-direction: column;
+ width: 1%;
+ height: 10%;
+ background-color: #D9D9D9;
+ border-radius: 50%;
+ padding-top: 5%;
+ padding-left: 5%;
+ margin-top: -5%;
+ margin-left: 55%;
+}
+.seta2{
+ margin-top: -350%;
+ margin-left: -250%;
+ font-size: 180%;
+ text-shadow: 
+ 1px 1px 1px #000000,
+ 1px 1px 1px #000000,                    
+ 1px 1px 1px #000000,                 
+ 1px 0px 1px #000000;
+}
+@media screen and (max-width: 720px) {
+   .fotin{
+      width: 14%;
+      margin-left: 43%;
+  }
+  .plusmarket{
+      margin-left: 28%;
+  }
+  .txtBusca{
+      margin-top: 2.5%;
+  }
+  .lupa{
+      margin-right: 30%;
+      margin-left: 90%;
+  }
+  .centro{
+   width: 95%;
+   padding-bottom: 10%;
+   margin-left: 3%;
+}
+.bloco1{
+   width: 25%;
+   margin-left: 9%;
+   margin-top: -60%;
+   padding-top: 30.5%;
+   padding-bottom: 1%;
+}
+.img1{
+   width: 68%;
+   margin-top: -110%; 
+   margin-bottom: 30%;
+   margin-left: 15%;
+}
+.plays5{
+   font-size: 80%;
+   margin-top: -17%; 
+}
+.preço1{
+   font-size: 105%;
+   margin-top: 27%;
+}
+.bloco2{
+   width: 25%;
+   margin-left: 65%;
+   margin-top: -39%;
+   padding-top: 18.5%;
+   padding-bottom: 1%;
+}
+.img2{
+   width: 70%;
+   margin-top: -60%; 
+   margin-bottom: 30%;
+   margin-left: 15%; 
+}
+.nintendo{
+   font-size: 80%;
+   margin-top: 3%;
+}
+.preço2{
+   font-size: 105%;
+   margin-top: 24%;
+}
+.bloco3{
+   width: 25%;
+   margin-left: 9%;
+   margin-top: 17%;
+   margin-bottom: -7.5%;
+   padding-top: 25.5%;
+   padding-bottom: 3%;
+}
+.img3{
+   width: 68%;
+   margin-top: -85%; 
+   margin-bottom: 30%;
+   margin-left: 15%;
+}
+.controle{
+   font-size: 80%;
+   margin-top: -17%;
+}
+.preço3{
+   font-size: 105%;
+   margin-top: 23%;
+}
+.bloco4{
+   width: 25%;
+   margin-top: -32.1%;
+   margin-left: 65%;
+   padding-top: 22%;
+   padding-bottom: 1%;
+}
+.img4{
+   width: 65%;
+   margin-top: -78%; 
+   margin-bottom: 30%;
+   margin-left: 15%;
+}
+.fonegamer{
+   font-size: 80%;
+   margin-top: -25%;
+}
+.preço4{
+   font-size: 105%;
+   margin-top: 10%;
+}
+.bloco5{
+   width: 25%;
+   padding-top: 30.5%;
+   padding-bottom: 1%;
+   margin-top: 15%;
+   margin-left: 9%;
+}
+.img5{
+   width: 65%;
+   margin-top: -110%;
+   margin-bottom: 29%;
+   margin-left: 15%;
+}
+.xbox{
+   font-size: 80%;
+   margin-top: -20%;
+}
+.preço5{
+   font-size: 105%;
+   margin-top: 13%;
+}
+.bloco6{
+   width: 25%;
+   padding-bottom: 3%;
+   padding-top: 30.5%;
+   margin-top: -41.5%;
+   margin-left: 65%;
+}
+.img6{
+   width: 70%;
+   margin-top: -110%;
+   margin-bottom: 29%;
+}
+.god{
+   font-size: 80%;
+   margin-top: -17%;
+}
+.preço6{
+   font-size: 105%;
+   margin-top: 28%;
+}
+.circulo1{
+   width: 1.5%;
+   padding-top: 5.5%;
+}
+.circulo2{
+   width: 1.5%;
+   padding-top: 4.5%;
+   padding-bottom: 1%;
+   margin-top: -5.5%;
+}
+.seta2{
+   padding-top: 60%;
+   padding-bottom: 20%;
+   margin-bottom: -90%;
+   margin-left: -200%;
+}
+}
+@media screen and (max-width: 580px) {
+   .plusmarket{
+      font-size: 250%;
+  }
+  .txtBusca{
+      margin-top: 3%;
+  } 
+  .lupa{
+      margin-left: 87%;
+  }
+  .bloco1{
+      padding-bottom: 5%;
+      padding-left: 60%;
+      margin-left: 8%;
+      margin-bottom: 8%; 
+  }
+  .img1{
+      width: 120%;
+      margin-left: -220%;
+      margin-top: -100%;
+      padding-bottom: 110%;
+  }
+  .plays5{
+      text-align:center;
+      width: 100%;
+      margin-top: -230%;
+      margin-left: -30%;
+      font-size: 110%;
+  }
+  .preço1{
+      margin-top: 20%;
+      margin-left: -60%;
+      font-size: 140%;
+      padding-bottom: 15%;
+  }
+  .bloco2{
+      padding-bottom: 5%;
+      padding-left: 60%;
+      margin-top: 1%;
+      margin-left: 8%;
+      margin-bottom: 8%; 
+  }
+  .img2{
+      width: 140%;
+      margin-left: -220%;
+      margin-top: -50%;
+      padding-bottom: 120%;
+      padding-top: 20%;
+  }
+  .nintendo{
+      text-align:center;
+      width: 140%;
+      margin-top: -220%;
+      margin-left: -50%;
+      font-size: 110%;
+  }
+  .preço2{
+      margin-top: 20%;
+      margin-left: -60%;
+      font-size: 140%;
+      padding-bottom: 10%;
+  }
+  .bloco3{
+      padding-bottom: 5%;
+      padding-left: 60%;
+      margin-top: 1%;
+      margin-left: 8%;
+      margin-bottom: 8%;
+  }
+  .img3{
+      width: 120%;
+      margin-left: -220%;
+      margin-top: -70%;
+      padding-bottom: 150%;
+  }
+  .controle{
+      text-align:center;
+      width: 100%;
+      margin-top: -240%;
+      margin-left: -30%;
+      font-size: 110%;
+  }
+  .preço3{
+      margin-top: 10%;
+      margin-left: -60%;
+      font-size: 140%;
+  }
+  .bloco4{
+      padding-bottom: 5%;
+      padding-left: 60%;
+      margin-top: 4%;
+      margin-left: 8%;
+  }
+  .img4{
+      width: 100%;
+      margin-left: -220%;
+      margin-top: -60%;
+      padding-bottom: 95%;
+  }
+  .fonegamer{
+      text-align:center;
+      width: 100%;
+      margin-top: -220%;
+      margin-left: -30%;
+      font-size: 110%;
+  }
+  .preço4{
+      margin-top: 20%;
+      margin-left: -60%;
+      font-size: 140%;
+  }
+  .bloco5{
+      padding-bottom: 5%;
+      padding-left: 60%;
+      margin-left: 8%;
+      margin-top: 13%;
+  }
+  .img5{
+      width: 100%;
+      margin-left: -220%;
+      margin-top: -100%;
+      padding-bottom: 105%;
+  }
+  .xbox{
+      text-align:center;
+      width: 100%;
+      margin-top: -220%;
+      margin-left: -30%;
+      font-size: 110%;
+  }
+  .preço5{
+      margin-top: 25%;
+      margin-left: -60%;
+      font-size: 140%;
+  }
+  .bloco6{
+      padding-bottom: 5%;
+      padding-left: 60%;
+      margin-top: 10%;
+      margin-left: 8%;
+  }
+  .img6{
+      width: 130%;
+      margin-left: -220%;
+      margin-top: -90%;
+      padding-bottom: 125%;
+  }
+  .god{
+      text-align:center;
+      width: 100%;
+      margin-top: -240%;
+      margin-left: -30%;
+      font-size: 110%;
+  }
+  .preço6{
+      margin-top: 10%;
+      margin-left: -60%;
+      font-size: 140%;
+  }
+  .circulo2{
+   margin-top: -7%;
+  }
+}
+@media screen and (max-width: 320px) {
+   .plusmarket{
+      font-size: 210%;
+      margin-left:18%;
+      white-space:nowrap;
+  }
+  .dropdown ul li a{
+      font-size: 120%;
+  }
+  .txtBusca{
+      font-size: 110%;
+      margin-top: 5%;
+  }
+  .lupa{
+      margin-left: 80%;
+  }
+  .img1{
+   width: 120%;
+   margin-top: -75%;
+   margin-bottom: 10%;
+}
+.plays5{
+   font-size: 90%;
+}
+.preço1{
+   font-size: 110%;
+}
+.img2{
+   width: 130%;
+   margin-top: -45%;
+   margin-bottom: 30%;
+}
+.nintendo{
+   font-size: 90%;
+}
+.preço2{
+   font-size: 110%;
+}
+.img3{
+   width: 120%;
+   margin-top: -65%;
+   margin-bottom: 10%;
+}
+.controle{
+   font-size: 90%;
+}
+.preço3{
+   font-size: 110%;
+}
+.img4{
+   width: 100%;
+   margin-top: -55%;
+   margin-bottom: 5%;
+}
+.fonegamer{
+   font-size: 90%;
+}
+.preço4{
+   font-size: 110%;
+}
+.img5{
+   width: 120%;
+   margin-top: -85%;
+   margin-top: -80%;
+}
+.xbox{
+   font-size: 90%;
+   margin-bottom: 10%;
+}
+.preço5{
+   font-size: 110%;
+}
+.img6{
+   width: 140%;
+   margin-top: -65%;
+   margin-bottom: 20%;
+}
+.god{
+   font-size: 90%;
+}
+.preço6{
+   font-size: 110%;
+}
+.circulo1{
+   padding-left: 8%;
+ }
+ .seta1{
+   margin-left: -350%;
+ }
+ .circulo2{
+   margin-top: -11%;
+   padding-left: 8%;
+ }
+ .seta2{
+   margin-left: -290%;
+ }
+}

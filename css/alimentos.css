@@ -1,0 +1,1289 @@
+.icones{
+    width: 13%;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.fotin{
+    width: 12%;
+    margin-top: -4%;
+    margin-left: 46%;
+}
+.plusmarket{
+    color: white;
+    text-shadow: 
+    -1px -1px 1px #000000,
+    -1px 1px 1px #000000,                    
+    1px -1px 1px #000000,                 
+    1px 0px 1px #000000;
+    margin-left: 40%;
+    margin-top: -1.5%; 
+    font-size: 290%;
+    font-family: 'Lobster', cursive;
+ }
+ .dropdown ul{
+    list-style-type: none;
+    padding-left: 90%;
+ }
+ .dropdown ul{
+    background-color: #7c7c7c;
+    padding: 0%;
+ }
+ .dropdown ul li{
+    display: inline;
+    position: relative;
+ }
+ .dropdown ul li a{
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    transition: background .3s;
+    font-size: 150%;
+ }
+ .dropdown ul li a:hover{
+    color: #ffe8e8;
+    background-color: #e4afaf;
+ }
+ .dropdown ul ul{
+    display: none;
+    position: absolute;
+    width: 150%;
+ }
+ .dropdown ul li:hover ul{
+    display: block;
+ }
+ .dropdown ul ul li a{
+    display: block;
+ }
+ .divBusca{
+    background-color:#D9D9D9;
+    border-radius: 20px;
+    width:80%;
+    margin-left: 10%;
+    margin-top: 3%;
+  }
+  
+ .txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:2%;
+    margin-top: 1%;
+    font-size:120%;
+    border:none;
+    height:20%;
+    width:70%;
+  }
+  .lupa{
+    margin-left: 95%;
+  }
+  .bloco1{
+    display: flex;
+    flex-direction: column;
+    width: 19%;
+    background-color: #000000;
+    margin-top: 10%;
+    margin-left: 5%;
+    padding-top: 28%;
+    border-radius: 20px;
+}
+.img1{
+    width: 72%;
+    margin-left: 14%;
+    margin-top: -135%;
+}
+.leche{
+    width: 75%;
+    margin-left: 15%;
+    margin-top: 10%;
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 90%;
+}
+.preço1{
+    text-align: center;
+    margin-top: 20%;
+    font-size: 120%;
+    color: white;
+    text-shadow: 
+    1px 1px 1px #ffffff,
+    1px 1px 1px #ffffff,                    
+    1px 1px 1px #ffffff,                 
+    1px 0px 1px #ffffff;
+}
+.bloco2{
+    display: flex;
+    flex-direction: column;
+    width: 19%;
+    background-color: #000000;
+    margin-top: -28%;
+    margin-left: 40%;
+    padding-top: 28%;
+    border-radius: 20px;
+}
+.img2{
+    width: 72%;
+    margin-left: 14%;
+    margin-top: -135%;
+}
+.pao{
+    width: 75%;
+    margin-left: 13%;
+    margin-top: 10%;
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 90%;
+}
+.preço2{
+    text-align: center;
+    margin-top: 20%;
+    font-size: 120%;
+    color: white;
+    text-shadow: 
+    1px 1px 1px #ffffff,
+    1px 1px 1px #ffffff,                    
+    1px 1px 1px #ffffff,                 
+    1px 0px 1px #ffffff;
+}
+.bloco3{
+    display: flex;
+    flex-direction: column;
+    width: 19%;
+    background-color: #000000;
+    margin-top: -28%;
+    margin-left: 76%;
+    padding-top: 28%;
+    border-radius: 20px;
+}
+.img3{
+    width: 70%;
+    margin-left: 15%;
+    margin-top: -138%;
+}
+.carne{
+    width: 75%;
+    margin-left: 13%;
+    margin-top: 10%;
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 90%;
+}
+.preço3{
+    text-align: center;
+    margin-top: 20%;
+    font-size: 120%;
+    color: white;
+    text-shadow: 
+    1px 1px 1px #ffffff,
+    1px 1px 1px #ffffff,                    
+    1px 1px 1px #ffffff,                 
+    1px 0px 1px #ffffff;
+}
+.bloco4{
+    display: flex;
+    flex-direction: column;
+    width: 19%;
+    background-color: #000000;
+    margin-top: 10%;
+    margin-left: 5%;
+    padding-top: 28%;
+    border-radius: 20px;
+}
+.img4{
+    width: 72%;
+    margin-left: 14%;
+    margin-top: -135%;
+}
+.frango{
+    width: 75%;
+    margin-left: 14%;
+    margin-top: 10%;
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 90%;
+}
+.preço4{
+    text-align: center;
+    margin-top: 20%;
+    font-size: 120%;
+    color: white;
+    text-shadow: 
+    1px 1px 1px #ffffff,
+    1px 1px 1px #ffffff,                    
+    1px 1px 1px #ffffff,                 
+    1px 0px 1px #ffffff;
+}
+.bloco5{
+    display: flex;
+    flex-direction: column;
+    width: 19%;
+    background-color: #000000;
+    margin-top: -28%;
+    margin-left: 40%;
+    padding-top: 28%;
+    border-radius: 20px;
+}
+.img5{
+    width: 72%;
+    margin-left: 14%;
+    margin-top: -135%;
+}
+.oreo{
+    width: 75%;
+    margin-left: 13%;
+    margin-top: 10%;
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 90%;
+}
+.preço5{
+    text-align: center;
+    margin-top: 20%;
+    font-size: 120%;
+    color: white;
+    text-shadow: 
+    1px 1px 1px #ffffff,
+    1px 1px 1px #ffffff,                    
+    1px 1px 1px #ffffff,                 
+    1px 0px 1px #ffffff;
+}
+.bloco6{
+    display: flex;
+    flex-direction: column;
+    width: 19%;
+    background-color: #000000;
+    margin-top: -28%;
+    margin-left: 76%;
+    padding-top: 28%;
+    border-radius: 20px;
+}
+.img6{
+    width: 72%;
+    margin-left: 14%;
+    margin-top: -135%;
+}
+.chocolate{
+    width: 75%;
+    margin-left: 13%;
+    margin-top: 10%;
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 90%;
+}
+.preço6{
+    text-align: center;
+    margin-top: 25%;
+    font-size: 120%;
+    color: white;
+    text-shadow: 
+    1px 1px 1px #ffffff,
+    1px 1px 1px #ffffff,                    
+    1px 1px 1px #ffffff,                 
+    1px 0px 1px #ffffff;
+}
+.bloco7{
+    display: flex;
+    flex-direction: column;
+    width: 19%;
+    background-color: #000000;
+    margin-top: 10%;
+    margin-left: 5%;
+    padding-top: 28%;
+    border-radius: 20px;
+   }
+   .img7{
+    width: 65%;
+    margin-left: 16.5%;
+    margin-top: -140%;
+   }
+   .arroz{
+    width: 75%;
+    margin-left: 15%;
+    margin-top: 15%;
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 90%;
+   }
+   .preço7{
+    text-align: center;
+     margin-top: 20%;
+     font-size: 120%;
+     color: white;
+     text-shadow: 
+     1px 1px 1px #ffffff,
+     1px 1px 1px #ffffff,                    
+     1px 1px 1px #ffffff,                 
+     1px 0px 1px #ffffff;
+   }
+   .bloco8{
+    display: flex;
+    flex-direction: column;
+    width: 19%;
+    background-color: #000000;
+    margin-top: -28%;
+    margin-left: 40.3%;
+    padding-top: 28%;
+    border-radius: 20px;
+   }
+   .img8{
+    width: 65%;
+    margin-left: 17%;
+    margin-top: -140%;
+   }
+   .feijao{
+    width: 75%;
+    margin-left: 15%;
+    margin-top: 12%;
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 90%;
+   }
+   .preço8{
+    text-align: center;
+     margin-top: 25%;
+     font-size: 120%;
+     color: white;
+     text-shadow: 
+     1px 1px 1px #ffffff,
+     1px 1px 1px #ffffff,                    
+     1px 1px 1px #ffffff,                 
+     1px 0px 1px #ffffff;
+   }
+   .bloco9{
+    display: flex;
+    flex-direction: column;
+    width: 19%;
+    background-color: #000000;
+    margin-top: -28%;
+    margin-left: 76%;
+    padding-top: 28%;
+    border-radius: 20px;
+   }
+   .img9{
+    width: 75%;
+    margin-left: 11.7%;
+    margin-top: -130%;
+   }
+   .macarrao{
+    width: 75%;
+    margin-left: 15%;
+    margin-top: 20%;
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 90%;
+   }
+   .preço9{
+    text-align: center;
+     margin-top: 25%;
+     font-size: 120%;
+     color: white;
+     text-shadow: 
+     1px 1px 1px #ffffff,
+     1px 1px 1px #ffffff,                    
+     1px 1px 1px #ffffff,                 
+     1px 0px 1px #ffffff;
+   }
+   .bloco10{
+    display: flex;
+    flex-direction: column;
+    width: 19%;
+    background-color: #000000;
+    margin-top: 10%;
+    margin-left: 5%;
+    padding-top: 28%;
+    border-radius: 20px;
+   }
+   .img10{
+    width: 65%;
+    margin-left: 16.5%;
+    margin-top: -140%;
+   }
+   .pipoca{
+    width: 75%;
+    margin-left: 15%;
+    margin-top: 15%;
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 90%;
+   }
+   .preço10{
+    text-align: center;
+     margin-top: 20%;
+     font-size: 120%;
+     color: white;
+     text-shadow: 
+     1px 1px 1px #ffffff,
+     1px 1px 1px #ffffff,                    
+     1px 1px 1px #ffffff,                 
+     1px 0px 1px #ffffff;
+   }
+   .bloco11{
+    display: flex;
+    flex-direction: column;
+    width: 19%;
+    background-color: #000000;
+    margin-top: -28%;
+    margin-left: 40.3%;
+    padding-top: 28%;
+    border-radius: 20px;
+   }
+   .img11{
+    width: 65%;
+    margin-left: 17%;
+    margin-top: -140%;
+   }
+   .coca{
+    width: 75%;
+    margin-left: 15%;
+    margin-top: 14%;
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 90%;
+   }
+   .preço11{
+    text-align: center;
+     margin-top: 22%;
+     font-size: 120%;
+     color: white;
+     text-shadow: 
+     1px 1px 1px #ffffff,
+     1px 1px 1px #ffffff,                    
+     1px 1px 1px #ffffff,                 
+     1px 0px 1px #ffffff;
+   }
+   .bloco12{
+    display: flex;
+    flex-direction: column;
+    width: 19%;
+    background-color: #000000;
+    margin-top: -28%;
+    margin-left: 76%;
+    padding-top: 28%;
+    border-radius: 20px;
+   }
+   .img12{
+    width: 65%;
+    margin-left: 16.7%;
+    margin-top: -140%;
+   }
+   .sorvete{
+    width: 75%;
+    margin-left: 15%;
+    margin-top: 18.5%;
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 90%;
+   }
+   .preço12{
+    text-align: center;
+     margin-top: 23%;
+     font-size: 120%;
+     color: white;
+     text-shadow: 
+     1px 1px 1px #ffffff,
+     1px 1px 1px #ffffff,                    
+     1px 1px 1px #ffffff,                 
+     1px 0px 1px #ffffff;
+   }
+   .circulo1{
+    display: flex;
+    flex-direction: column;
+    width: 2%;
+    height: 10%;
+    background-color: #D9D9D9;
+    border-radius: 50%;
+    padding-top: 6%;
+    padding-left: 5%;
+    margin-top: 10%;
+    margin-left: 35%;
+}
+.seta1{
+    margin-top: -200%;
+    margin-left: -110%;
+    font-size: 180%;
+    text-shadow: 
+    1px 1px 1px #000000,
+    1px 1px 1px #000000,                    
+    1px 1px 1px #000000,                 
+    1px 0px 1px #000000;
+}
+.circulo2{
+  display: flex;
+  flex-direction: column;
+  width: 2%;
+  height: 10%;
+  background-color: #D9D9D9;
+  border-radius: 50%;
+  padding-top: 6%;
+  padding-left: 5%;
+  margin-top: -6%;
+  margin-left: 55%;
+}
+.seta2{
+  margin-top: -200%;
+  margin-left: -110%;
+  font-size: 180%;
+  text-shadow: 
+  1px 1px 1px #000000,
+  1px 1px 1px #000000,                    
+  1px 1px 1px #000000,                 
+  1px 0px 1px #000000;
+}
+@media screen and (max-width: 720px) {
+    .fotin{
+        width: 14%;
+        margin-left: 43%;
+    }
+    .plusmarket{
+        margin-left: 28%;
+    }
+    .txtBusca{
+        margin-top: 2.5%;
+    }
+    .lupa{
+        margin-right: 30%;
+        margin-left: 90%;
+    }
+    .bloco1{
+        width: 25%;
+       
+        padding-top: 30.5%;
+        padding-bottom: 1%;
+    }
+    .img1{
+        width: 68%;
+        margin-top: -110%; 
+        margin-bottom: 20%;
+        margin-left: 15%;
+    }
+    .leche{
+        font-size: 80%;
+        margin-top: -17%; 
+    }
+    .preço1{
+        font-size: 105%;
+        margin-top: 27%;
+    }
+    .bloco2{
+        width: 25%;
+        margin-left: 65%;
+        margin-top: -38.5%;
+        padding-top: 14%;
+        padding-bottom: 1%;
+    }
+    .img2{
+        width: 68%;
+        margin-top: -65%; 
+        margin-bottom: 10%;  
+        margin-left: 15%; 
+    }
+    .pao{
+        font-size: 80%;
+        margin-top: -17%;
+    }
+    .preço2{
+        font-size: 105%;
+        margin-top: 14%;
+    }
+    .bloco3{
+        width: 25%;
+        margin-left: 5.3%;
+        margin-top: 17%;
+        margin-bottom: -7.5%;
+        padding-top: 22.5%;
+    }
+    .img3{
+        width: 18%;
+        margin-top: -75%; 
+        margin-bottom: 0%;
+        margin-left: 15%;
+    }
+    .carne{
+        font-size: 80%;
+        margin-top: -17%;
+    }
+    .preço3{
+        font-size: 105%;
+        margin-top: 40%;
+        padding-bottom: 20%;
+    }
+    .bloco4{
+        width: 25%;
+        margin-top: -38.5%;
+        margin-left: 65%;
+        padding-top: 24%;
+    }
+    .img4{
+        width: 88%;
+        margin-top: -65%; 
+        margin-bottom: 50%;
+        margin-left: 15%;
+    }
+    .frango{
+        font-size: 80%;
+        margin-top: -17%;
+    }
+    .preço4{
+        font-size: 105%;
+        margin-top: 20%;
+    }
+    .bloco5{
+        width: 25%;
+        padding-top: 33.5%;
+        padding-bottom: 5.5%;
+        margin-top: 15%;
+        margin-left: 5.3%;
+    }
+    .img5{
+        width: 68%;
+        margin-top: -110%;
+        margin-bottom: 43%;
+        margin-left: 15%;
+    }
+    .oreo{
+        font-size: 80%;
+        margin-top: -17%;
+        padding-bottom: 5%;
+    }
+    .preço5{
+        font-size: 105%;
+        margin-top: 20%;
+    }
+    .bloco6{
+        width: 25%;
+        padding-bottom: 1.5%;
+        margin-top: -38%;
+        margin-left: 65%;
+    }
+    .img6{
+        width: 68%;
+        margin-top: -100%;
+        margin-bottom: 19%;
+    }
+    .chocolate{
+        font-size: 80%;
+        margin-top: -17%;
+    }
+    .preço6{
+        font-size: 105%;
+        margin-top: 30%;
+        padding-bottom: 10%;
+    }
+    .bloco7{
+        width: 25%;
+        padding-top: 30.5%;
+        padding-bottom: 2.5%;
+        margin-top: 22%;
+        margin-left: 5.3%;
+      }
+      .img7{
+        width: 68%;
+        margin-top: -105%;
+        margin-bottom: 29%;
+      }
+      .arroz{
+        font-size: 80%;
+        margin-top: -17%;
+      }
+      .preço7{
+        font-size: 105%;
+        margin-top: 17%;
+      }
+      .bloco8{
+        width: 25%;
+        padding-bottom: 3%;
+        margin-top: -39%;
+        margin-left: 65%;
+      }
+      .img8{
+        width: 68%;
+        margin-top: -100%;
+        margin-bottom: 29%;
+      }
+      .feijao{
+        font-size: 80%;
+        margin-top: -17%;
+      }
+      .preço8{
+        font-size: 105%;
+        margin-top: 17%;
+      }
+      .bloco9{
+        width: 25%;
+        padding-top: 35.5%;
+        padding-bottom: 2.5%;
+        margin-top: 15%;
+        margin-left: 5.3%;
+      }
+      .img9{
+        width: 78%;
+        margin-top: -105%;
+        margin-bottom: 29%;
+        margin-left: 15%;
+      }
+      .macarrao{
+        width: 80%;
+        font-size: 80%;
+        margin-top: -17%;
+        margin-left: 10%;
+      }
+      .preço9{
+        font-size: 105%;
+        margin-top: 23%;
+      }
+      .bloco10{
+        width: 25%;
+        padding-top: 30.5%;
+        padding-bottom: 2.5%;
+        margin-top: -37%;
+        margin-left: 65%;
+      }
+      .img10{
+        width: 65%;
+        margin-top: -110%;
+        margin-bottom: 34%;
+      }
+      .pipoca{
+        width: 80%;
+        font-size: 80%;
+        margin-top: -17%;
+        margin-left: 10%;
+      }
+      .preço10{
+        font-size: 105%;
+        margin-top: 15%;
+        padding-bottom: 10%;
+      }
+      .bloco11{
+        width: 25%;
+        padding-top: 30.5%;
+        padding-bottom: 2.5%;
+        margin-top: 15%;
+        margin-left: 5.3%;
+      }
+      .img11{
+        width: 68%;
+        margin-top: -110%;
+        margin-bottom: 7%;
+      }
+      .coca{
+        width: 80%;
+        font-size: 80%;
+        margin-top: -17%;
+        margin-left: 10%;
+      }
+      .preço11{
+        font-size: 105%;
+        margin-top: 17%;
+        padding-bottom: 10%;
+      }
+      .bloco12{
+        width: 25%;
+        padding-top: 30.5%;
+        padding-bottom: 2.5%;
+        margin-top: -38%;
+        margin-left: 65%;
+      }
+      .img12{
+        width: 68%;
+        margin-top: -110%;
+        margin-bottom: 42%;
+      }
+      .sorvete{
+        width: 80%;
+        font-size: 80%;
+        margin-top: -17%;
+        margin-left: 10%;
+      }
+      .preço12{
+        font-size: 105%;
+        margin-top: 15%;
+      }
+
+}
+@media screen and (max-width: 580px) {
+  .plusmarket{
+     font-size: 250%;
+ }
+ .txtBusca{
+     margin-top: 3%;
+ } 
+ .lupa{
+     margin-left: 87%;
+ }
+ .bloco1{
+     padding-bottom: 5%;
+     padding-left: 60%;
+     margin-left: 8%;
+     margin-bottom: 8%; 
+ }
+ .img1{
+     width: 120%;
+     margin-left: -220%;
+     margin-top: -100%;
+     padding-bottom: 110%;
+ }
+ .leche{
+     text-align:center;
+     width: 100%;
+     margin-top: -230%;
+     margin-left: -30%;
+     font-size: 110%;
+ }
+ .preço1{
+     margin-top: 20%;
+     margin-left: -60%;
+     font-size: 140%;
+     padding-bottom: 15%;
+ }
+ .bloco2{
+     padding-bottom: 5%;
+     padding-left: 60%;
+     margin-top: 1%;
+     margin-left: 8%;
+     margin-bottom: 8%; 
+ }
+ .img2{
+     width: 140%;
+     margin-left: -220%;
+     margin-top: -50%;
+     padding-bottom: 120%;
+     padding-top: 20%;
+ }
+ .pao{
+     text-align:center;
+     width: 140%;
+     margin-top: -220%;
+     margin-left: -50%;
+     font-size: 110%;
+ }
+ .preço2{
+     margin-top: 20%;
+     margin-left: -60%;
+     font-size: 140%;
+     padding-bottom: 10%;
+ }
+ .bloco3{
+     padding-bottom: 5%;
+     padding-left: 60%;
+     margin-top: 1%;
+     margin-left: 8%;
+     margin-bottom: 8%;
+ }
+ .img3{
+     width: 120%;
+     margin-left: -220%;
+     margin-top: -70%;
+     padding-bottom: 150%;
+ }
+ .carne{
+     text-align:center;
+     width: 100%;
+     margin-top: -240%;
+     margin-left: -30%;
+     font-size: 110%;
+ }
+ .preço3{
+     margin-top: 10%;
+     margin-left: -60%;
+     font-size: 140%;
+ }
+ .bloco4{
+     padding-bottom: 5%;
+     padding-left: 60%;
+     margin-top: 4%;
+     margin-left: 8%;
+ }
+ .img4{
+     width: 100%;
+     margin-left: -220%;
+     margin-top: -60%;
+     padding-bottom: 95%;
+ }
+ .frango{
+     text-align:center;
+     width: 100%;
+     margin-top: -220%;
+     margin-left: -30%;
+     font-size: 110%;
+ }
+ .preço4{
+     margin-top: 20%;
+     margin-left: -60%;
+     font-size: 140%;
+ }
+ .bloco5{
+     padding-bottom: 5%;
+     padding-left: 60%;
+     margin-left: 8%;
+     margin-top: 13%;
+ }
+ .img5{
+     width: 100%;
+     margin-left: -220%;
+     margin-top: -100%;
+     padding-bottom: 105%;
+ }
+ .oreo{
+     text-align:center;
+     width: 100%;
+     margin-top: -220%;
+     margin-left: -30%;
+     font-size: 110%;
+ }
+ .preço5{
+     margin-top: 25%;
+     margin-left: -60%;
+     font-size: 140%;
+ }
+ .bloco6{
+     padding-bottom: 5%;
+     padding-left: 60%;
+     margin-top: 10%;
+     margin-left: 8%;
+ }
+ .img6{
+     width: 130%;
+     margin-left: -220%;
+     margin-top: -90%;
+     padding-bottom: 125%;
+ }
+ .chocolate{
+     text-align:center;
+     width: 100%;
+     margin-top: -240%;
+     margin-left: -30%;
+     font-size: 110%;
+ }
+ .preço6{
+     margin-top: 10%;
+     margin-left: -60%;
+     font-size: 140%;
+ }
+ .bloco7{
+  padding-bottom: 5%;
+  padding-left: 60%;
+  margin-top: 12%;
+  margin-left: 8%;
+}
+.img7{
+  width: 120%;
+  margin-left: -220%;
+  margin-top: -95%;
+  padding-bottom: 110%;
+}
+.arroz{
+  text-align:center;
+  width: 100%;
+  margin-top: -230%;
+  margin-left: -30%;
+  font-size: 110%;
+}
+.preço7{
+  margin-top: 20%;
+  margin-left: -60%;
+  font-size: 140%;
+}
+.bloco8{
+  padding-bottom: 5%;
+  padding-left: 60%;
+  padding-top: 32%;
+  margin-top: 14%;
+  margin-left: 8%;
+}
+.img8{
+  width: 120%;
+  margin-left: -220%;
+  margin-top: -95%;
+  padding-bottom: 200%;
+}
+.feijao{
+  text-align:center;
+  width: 120%;
+  margin-top: -300%;
+  margin-left: -40%;
+  font-size: 110%;
+}
+.preço8{
+  margin-top: 30%;
+  margin-left: -60%;
+  font-size: 140%;
+}
+.bloco9{
+  padding-bottom: 5%;
+  padding-left: 60%;
+  margin-top: 16%;
+  margin-left: 8%;
+}
+.img9{
+  width: 120%;
+  margin-left: -220%;
+  margin-top: -95%;
+  padding-bottom: 100%;
+}
+.macarrao{
+  text-align:center;
+  width: 100%;
+  margin-top: -230%;
+  margin-left: -30%;
+  font-size: 110%;
+}
+.preço9{
+  margin-top: 20%;
+  margin-left: -60%;
+  font-size: 140%;
+}
+.bloco10{
+  padding-bottom: 5%;
+  padding-left: 60%;
+  margin-top: 12%;
+  margin-left: 8%;
+}
+.img10{
+  width: 120%;
+  margin-left: -220%;
+  margin-top: -95%;
+  padding-bottom: 110%;
+}
+.pipoca{
+  text-align:center;
+  width: 100%;
+  margin-top: -230%;
+  margin-left: -30%;
+  font-size: 110%;
+}
+.preço10{
+  margin-top: 20%;
+  margin-left: -60%;
+  font-size: 140%;
+}
+.bloco11{
+  padding-bottom: 5%;
+  padding-left: 60%;
+  padding-top: 32%;
+  margin-top: 14%;
+  margin-left: 8%;
+}
+.img11{
+  width: 120%;
+  margin-left: -220%;
+  margin-top: -95%;
+  padding-bottom: 200%;
+}
+.coca{
+  text-align:center;
+  width: 120%;
+  margin-top: -300%;
+  margin-left: -40%;
+  font-size: 110%;
+}
+.preço11{
+  margin-top: 30%;
+  margin-left: -60%;
+  font-size: 140%;
+}
+.bloco12{
+  padding-bottom: 5%;
+  padding-left: 60%;
+  margin-top: 16%;
+  margin-left: 8%;
+}
+.img12{
+  width: 120%;
+  margin-left: -220%;
+  margin-top: -95%;
+  padding-bottom: 100%;
+}
+.sorvete{
+  text-align:center;
+  width: 100%;
+  margin-top: -230%;
+  margin-left: -30%;
+  font-size: 110%;
+}
+.preço12{
+  margin-top: 20%;
+  margin-left: -60%;
+  font-size: 140%;
+}
+.seta1{
+  margin-left: -150%;
+}
+ .circulo2{
+  margin-top: -8%;
+ }
+}
+@media screen and (max-width: 320px) {
+  .plusmarket{
+    font-size: 210%;
+    margin-left:18%;
+    white-space:nowrap;
+}
+.dropdown ul li a{
+    font-size: 120%;
+}
+.txtBusca{
+    font-size: 110%;
+    margin-top: 5%;
+}
+.lupa{
+    margin-left: 80%;
+}
+.img1{
+  width: 120%;
+  margin-top: -75%;
+  margin-bottom: 1%;
+}
+.leche{
+  font-size: 90%;
+}
+.preço1{
+  font-size: 110%;
+}
+.img2{
+  width: 120%;
+  margin-top: -40%;
+  margin-bottom: 1%;
+}
+.pao{
+  font-size: 90%;
+}
+.preço2{
+  font-size: 110%;
+}
+.img3{
+  width: 120%;
+  margin-top: -55%;
+  margin-bottom: -5%;
+}
+.carne{
+  font-size: 90%;
+}
+.preço3{
+  font-size: 110%;
+  padding-bottom: 10%;
+}
+.img4{
+  width: 120%;
+  margin-top: -65%;
+  margin-bottom: 10%;
+}
+.frango{
+  font-size: 90%;
+}
+.preço4{
+  font-size: 110%;
+}
+.img5{
+  width: 120%;
+  margin-top: -85%;
+  margin-bottom: 1%;
+}
+.oreo{
+  font-size: 90%;
+}
+.preço5{
+  font-size: 110%;
+}
+.img6{
+  width: 120%;
+  margin-top: -65%;
+  margin-bottom: 10%;
+}
+.chocolate{
+  font-size: 90%;
+}
+.preço6{
+  font-size: 110%;
+}
+.img7{
+  width: 120%;
+  margin-top: -65%;
+  margin-bottom: 10%;
+}
+.arroz{
+  font-size: 90%;
+}
+.preço7{
+  font-size: 110%;
+}
+.img8{
+  width: 120%;
+  margin-top: -85%;
+  margin-bottom: 1%;
+}
+.feijao{
+  font-size: 90%;
+}
+.preço8{
+  font-size: 110%;
+}
+.img9{
+  width: 140%;
+  margin-top: -75%;
+  margin-bottom: 10%;
+}
+.macarrao{
+  font-size: 90%;
+}
+.preço9{
+  font-size: 110%;
+}
+.img10{
+  width: 120%;
+  margin-top: -65%;
+  margin-bottom: 10%;
+}
+.pipoca{
+  font-size: 90%;
+}
+.preço10{
+  font-size: 110%;
+}
+.img11{
+  width: 120%;
+  margin-top: -85%;
+  margin-bottom: 1%;
+}
+.coca{
+  font-size: 90%;
+}
+.preço11{
+  font-size: 110%;
+}
+.img12{
+  width: 140%;
+  margin-top: -75%;
+  margin-bottom: 10%;
+}
+.sorvete{
+  font-size: 90%;
+}
+.preço12{
+  font-size: 110%;
+}
+.circulo1{
+  padding-left: 8%;
+}
+.seta1{
+  margin-left: -290%;
+}
+.circulo2{
+  margin-top: -12%;
+  padding-left: 8%;
+}
+.seta2{
+  margin-left: -250%;
+}
+}

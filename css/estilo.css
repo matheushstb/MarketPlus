@@ -1,0 +1,480 @@
+
+.container{
+    width: 102%;
+    position:relative;
+    padding-top: -30%;
+    display: flex;
+    flex-direction: row;
+    margin-left: -1%;
+    margin-top: -18%;
+    background-color: #D1C6C6;
+}
+.logo{
+    margin-top: 19.5%;
+}
+.market{
+   margin-right: 21%;
+   margin-left: 29%;
+   margin-top: 18.5%;
+   margin-bottom: -10%;
+   box-sizing: 10%;
+   font-size: 190%;
+   font-family: 'Lobster', cursivo;
+   color: #fff;
+   text-shadow: 
+            -5px -1px 0px #000,
+            -4px 1px 0px #000,                    
+            2px -1px 0px #000,                 
+            1px 0px 0px #000;
+}
+.tudo{
+    color: #000;
+    margin-top: 27%;
+    margin-right: -45%;
+    margin-left: -46%;
+    font-size: 120%;
+    text-align: center;
+    align-items: center;
+    font-weight: bolder;
+}
+.insta{
+    margin-left: 66%;
+    margin-right: -12%;
+    margin-top: 26%;
+}
+.face{
+    margin-left: 13.2%;
+    margin-right: -4.5%;
+    margin-top: 26%;
+}
+.twite{
+    height: 3%;
+    margin-left: 6.2%;
+    margin-right: -10%;
+    margin-top: 26%;
+}
+.variedade{
+    color: white;
+    text-align: center;
+    margin-top: 3%;
+}
+.container2{
+    display: flex;
+    flex-direction: row;
+}
+.esmagados{
+    width: 220%;
+    margin-left: 5.5%;
+    margin-top: 4%;
+}
+.vier{
+    text-align: center;
+    color: #000000;
+    text-shadow: 
+            -1px -1px 0px #fff,
+            -1px 1px 0px #fff,                    
+            2px -1px 0px #fff,                 
+            1px 0px 0px #fff;
+    font-size: 175%;
+    margin-right: -130%;
+    margin-top: -30%;
+}
+.produtos{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: -40%;
+    margin-left: 30%;
+}
+.smart{
+    width: 70%;
+    margin-top: 301%;
+    margin-left: -239%;
+    margin-right: 25%;
+}
+.phone{
+    color: white;
+    font-size: 120%;
+    padding-left: 5%;
+    padding-right: -10%;
+}
+.jaqueta{
+    width: 70%;
+    margin-top: 302.5%;
+    margin-left: 10%;
+    margin-right: -25%;
+}
+.jaq{
+    color: white;
+    font-size: 120%;
+    padding-left: 10%;
+    text-align: center;
+    margin-right: 20%;
+}
+.ps5{
+    width: 75%;
+    margin-top: 302.5%;
+    margin-left: 60%;
+    margin-right: 10%;
+}
+.video{
+    color: white;
+    font-size: 120%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.leite{
+    width: 80%;
+    margin-top: 301.5%;
+    margin-left: 20%;
+    margin-right: 45%;
+}
+.comida{
+    color: white;
+    font-size: 120%;
+    margin-left: 25%;
+}
+.rodape{
+    display: flex;
+    flex-direction: row;
+    background-color: #D1C6C6;
+    padding-bottom: 1%;
+    padding-left: 30%;
+    margin-top: 8%;
+    margin-bottom: -5%;
+    margin-left: -30%;
+    margin-right: -1%;
+}
+.ajuda{
+    margin-left: 4%;
+    margin-top: 1%;
+    font-size: 110%;
+}
+.whats{
+    margin-top: 3%;
+    margin-left: -12%;
+}
+.tel1
+{
+    margin-left: 3%;
+    margin-top: 4%;
+}
+.tel2{
+    margin-top: 7%;
+    margin-left: -8.5%;
+}
+.icon{
+    margin-left: 26%;
+}
+.plus{
+    margin-top: 8%;
+    margin-left: -8%;
+    font-size: 125%;
+    font-family: 'Lobster', cursivo;
+    color: #ffffff;
+    text-shadow: 
+            -1px -1px 0px #000,
+            -1px 1px 0px #000,                    
+            2px -1px 0px #000,                 
+            1px 0px 0px #000;
+}
+.boton{
+    background-color: #000000;
+    margin-top: 2%;
+    margin-left: 22%;
+    padding-left: 10%;
+    padding-top: -20%;
+    padding-bottom: 1%;
+    border-radius: 10px;
+    font-size: 120%;
+}
+.login{
+    color: white;
+    margin-top: 30%;
+    margin-left: -40%;
+}
+.login :hover{
+    color: white;
+}
+@media screen and (max-width: 720px) {
+    .container{
+        margin-left: -3%;
+        padding-right: 5%;
+        padding: -15%;
+        padding-top: -8%;
+    }
+    .logo{
+        width: 20%;
+        margin-left: 3%;
+        margin-top: 22%;
+    }
+    .market{
+       width: 60%;
+       font-size: 210%;
+       padding-left: 2%;
+       margin-top: 18%;
+       margin-left: 10%;
+       margin-right: 24%;
+    }
+    .tudo{
+        width: 100%;
+        font-size: 100%;
+        padding-top: -5%;
+        margin-top: 38%;
+        margin-left: -110%;
+    }
+    .insta{
+        width: 8%;
+        margin-top: 42%;
+        margin-left: 9%;
+    }
+    .face{
+        width: 9%;
+        margin-top: 42%;
+    }
+    .twite{
+        width: 9%;
+        margin-top: 42%;
+    }
+    .variedade{
+        margin-top: 5%;
+    }
+    .esmagados{
+        width: 80%;
+        height: 9%;
+        margin-left: 1%;
+        margin-top: 10%;
+        padding-left: 1%;
+    }
+    .vier{ 
+       width: 350%;   
+       margin-top: -18%;
+       margin-right: -30%;
+       margin-left: -135%;
+       font-size: 140%;
+    }
+    .produtos{
+        flex-direction: column;
+        margin-left: -40%;
+        margin-top: -50%;
+    }
+    .smart{
+        width: 160%;
+        margin-left: -230%;
+        margin-top: 650%;
+    }
+    .jaqueta{
+        width: 160%;
+        margin-left: -230%;
+        margin-top: 250%;
+    }
+    .ps5{
+        width: 160%;
+        margin-left: -230%;
+        margin-top: 170%;
+    }
+    .leite{
+        width: 160%;
+        margin-left: -230%;
+    }
+    .rodape{
+        display:inline-flex;
+        padding-top: 12%;
+    }
+    .ajuda{
+        margin-top: -10%;
+    }
+    .whats{   
+        width: 10%;
+        height: 1%;
+        margin-left: -15%;
+        margin-right: -60%;
+        margin-top: -5%;
+    }
+    .icon{
+        margin-left: 140%;
+        margin-top: -10%;
+    }
+    .plus{
+        margin-left: -18%;
+        margin-right: -20%;
+        font-size: 160%;
+    }
+    .tel1{
+        margin-left: -50%;
+    }
+    .tel2{
+        margin-right: 10%;
+        margin-left:-50%;
+    }
+    .boton{
+        display: flex;
+        flex-direction: column;
+        width: 15%;
+        padding-left: 3%;
+        margin-left: 40%;
+        margin-bottom: -1%;
+    }
+    .login{
+        text-align:left;
+        margin-left: 1%;
+        margin-right: -1%;
+        margin-top: 10%;
+    }
+    .login :hover{
+        color: white;
+    }
+}
+@media screen and (max-width: 580px) {
+    .container{
+        padding-right: 3%;
+    }
+    .logo{
+        width: 19%;
+        margin-top: 30%;
+    }
+    .market{
+        font-size: 170%;
+        margin-left: 4%;
+        margin-top: 22%;
+    }
+    .tudo{
+        margin-top: 43%;
+    }
+    .insta{
+        margin-top: 30%;
+        margin-left: 36%;
+    }
+    .face{
+        margin-top: 42%;
+        margin-left: 4%;
+    }
+    .twite{
+        margin-left: -5%;
+        margin-top: 54%;
+    }
+    .rodape{
+        display: flex;
+        flex-direction: row;
+        width: 102%;
+        margin-top: 20%;
+    }
+    .ajuda{
+        display: none;
+    }
+    .whats{
+        width: 20%;
+        margin-left: 4%;
+        margin-top: -4%;
+    }
+    .icon{
+        width: 25%;
+        margin-top: -11%;
+        margin-right: 20%;
+    }
+    .plus{
+        text-align: center;
+        width: 50%;
+        padding-left: 10%;
+        margin-left: -55%;
+        margin-right: 5%;
+    }
+    .boton{
+        width: 25%;
+        height: 20%;
+        padding-top: -5%;
+        padding-right: 9%;
+        padding-left: 1%;
+        padding-bottom: -1%;
+        margin-left: 4%;
+        margin-top: -5%;
+    }
+    .login{
+        display: inline;
+        padding-left: 20%;
+        padding-top: -10%;
+        font-size: 90%;
+        color: white;
+    }
+    .login :hover{
+        color: white;
+    }
+}
+@media screen and (max-width: 320px) {
+    .market{
+        font-size: 120%;
+        width: 60%;
+        margin-top: 23%;
+        white-space: nowrap;
+        text-align: center;
+        padding-right: 2%;
+    }
+    .tudo{
+        font-size: 80%;
+        margin-top: 50%;
+        padding-left: 4%;
+    }
+    .insta{
+       margin-left: 30%;
+    }
+    .variedade{
+        font-size: 80%;
+    }
+    .esmagados{
+        width: 90%;
+        height: 7%;
+    }
+    .vier{
+        font-size: 130%;
+        margin-left: -127%;
+        margin-top: -25%;
+    }
+    .smart{
+        margin-left: -130%;
+        margin-top: 500%;
+    }
+    .jaqueta{
+        margin-left: -130%;
+    }
+    .ps5{
+        margin-left: -130%;
+    }
+    .leite{
+        margin-left: -130%;
+    }
+    .rodape{
+        width: 103%;
+        padding-top: 10%;
+        padding-bottom: 0%;
+    }
+    .whats{
+        width: 25%;
+        height: 30%;
+        margin-bottom: -30%;
+        padding: none;
+        position: static;
+    }
+    .icon{
+        display: none;
+        width: 90%;
+        margin-right: 25%;
+        padding: none;
+    }
+    .plus{
+        white-space: nowrap;
+        margin-left: 120%;
+        margin-top: -3%;
+        font-size: 150%;
+        position: static;
+        padding: 0%;
+    }
+    .boton{
+        padding-bottom: 1%;
+        height: 1%;
+    }
+    .login{
+        font-size: 80%;
+        margin-right: 30%;
+        padding-left: 10%;
+    }
+}

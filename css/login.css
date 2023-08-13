@@ -1,0 +1,161 @@
+.top{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.mercado{
+    margin-left: 1.5%;
+    margin-top: -2%;
+    color: white;
+    text-shadow: 
+    -1px -1px 1px #000000,
+    -1px 1px 1px #000000,                    
+    1px -1px 1px #000000,                 
+    1px 0px 1px #000000; 
+    font-size: 340%;
+    font-family: 'Lobster', cursive;                
+}
+.meio{
+    width: 65%;
+    padding-top: 46%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 19%;
+    margin-top: 1.5%;
+    background-color: white;
+    border-radius: 30px;
+}
+.cadastro{
+    text-align: center;
+    margin-top: -66%;
+    font-size: 320%;
+    text-shadow: 
+    -1px 0px 0px #000000,
+    -1px 0px 0px #000000,                    
+    1px 0px 0px #000000,                 
+    1px 0px 0px #000000;
+}
+.digite1{
+    margin-top: -1%;
+    margin-left: 10%;
+    padding-right: 80%;
+    
+}
+.txtBusca1{
+    display: none;
+}
+.txtBusca2{
+    display: none;
+}
+.escrita1{
+    display: flex;
+    margin-top: 3.5%;
+    margin-left: 10%;
+    padding-right: 15%;
+    padding-left: -50%;
+    padding-top: -15%;
+    padding-bottom: 5%;
+}
+.e-mail{
+    text-align: left;
+    margin-top: 4%;
+    margin-left: 0%;
+    font-size: 115%;
+}
+.senha{
+    margin-top: 10%;
+    margin-left: 10%;
+    font-size: 115%;
+}
+.digite2{
+    margin-top: 3.5%;
+    margin-left: 10%;
+
+}
+.botao{
+    width: 40%;
+    margin-top: 5%;
+    margin-left: 28%;
+    padding-top: 4%;
+    border-radius: 15px;
+    background-color: #9A9A9A;
+}
+.fazer{
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 10%;
+    font-size: 180%;
+    color: #313131;
+}
+@media screen and (max-width: 720px) {
+    .digite1{
+        display: none;
+    }
+    .digite2{
+        display: none;
+    }
+    .txtBusca1{
+        display: inline;
+        width: 78%;
+        margin-top: -1%;
+        margin-left: 10%;
+    }
+    .txtBusca2{
+        display: inline;
+        width: 78%;
+        margin-top: 3.5%;
+        margin-left: 10%;
+    }
+    .cadastro{
+        font-size: 250%;
+    }
+    .botao{
+        padding-top: 2%;
+    }
+    .meio{
+        padding-bottom: 5%;
+        margin-bottom: 80%;
+    }
+    .mercado{
+        margin-top: -4%;
+    }
+}
+@media screen and (max-width: 580px) {
+    .logon{
+        margin-top: 6%;
+    }
+    .mercado{
+        margin-top: -2%
+    }
+    .meio{
+        width: 80%;
+        padding-top: 70%;
+        margin-top: 20%;
+        margin-left: 12%;
+    }
+    .cadastro{
+        font-size: 220%;
+        margin-top: -80%;
+    }
+    .fazer :hover{
+        color: white;
+    }
+}
+@media screen and (max-width: 320px) {
+    .mercado{
+        white-space:nowrap;
+        font-size: 280%;
+    }
+    .meio{
+        width: 90%;
+        margin-left: 5%;
+    }
+    .cadastro{
+        margin-top: -70%;
+        font-size: 170%;
+    }
+    .fazer{
+        white-space: nowrap;
+        font-size: 140%;
+    }
+}

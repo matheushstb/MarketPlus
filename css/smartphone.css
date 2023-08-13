@@ -1,0 +1,718 @@
+
+.icones{
+    width: 13%;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.fotin{
+    width: 12%;
+    margin-top: -4%;
+    margin-left: 46%;
+}
+.plusmarket{
+    color: white;
+    text-shadow: 
+    -1px -1px 1px #000000,
+    -1px 1px 1px #000000,                    
+    1px -1px 1px #000000,                 
+    1px 0px 1px #000000;
+    margin-left: 40%;
+    margin-top: -1.5%; 
+    font-size: 290%;
+    font-family: 'Lobster', cursive;
+ }
+ .dropdown ul{
+    list-style-type: none;
+    padding-left: 90%;
+ }
+ .dropdown ul{
+    background-color: #7c7c7c;
+    padding: 0%;
+ }
+ .dropdown ul li{
+    display: inline;
+    position: relative;
+ }
+ .dropdown ul li a{
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    transition: background .3s;
+    font-size: 150%;
+ }
+ .dropdown ul li a:hover{
+    color: #ffe8e8;
+    background-color: #e4afaf;
+ }
+ .dropdown ul ul{
+    display: none;
+    position: absolute;
+    width: 150%;
+ }
+ .dropdown ul li:hover ul{
+    display: block;
+ }
+ .dropdown ul ul li a{
+    display: block;
+ }
+ .divBusca{
+    background-color:#D9D9D9;
+    border-radius: 20px;
+    width:80%;
+    margin-left: 10%;
+    margin-top: 3%;
+  }
+  
+ .txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:2%;
+    margin-top: 1%;
+    font-size:120%;
+    border:none;
+    height:20%;
+    width:70%;
+  }
+  .lupa{
+    margin-left: 95%;
+  }
+  .centro{
+    width: 85%;
+    padding-top: 63%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 8%;
+    margin-top: 4.5%;
+    background-color: #d9d9d9;
+    border-radius: 30px;
+}
+.bloco1{
+    display: flex;
+    flex-direction: column;
+    width: 19%;
+    background-color: #000000;
+    margin-top: -70%;
+    margin-left: 5%;
+    padding-top: 28%;
+    border-radius: 20px;
+}
+.img1{
+    width: 82%;
+    margin-left: 9%;
+    margin-top: -135%;
+}
+.apple{
+    width: 75%;
+    margin-left: 15%;
+    margin-top: 5%;
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 90%;
+}
+.preço1{
+    text-align: center;
+    margin-top: 15%;
+    font-size: 120%;
+    color: white;
+    text-shadow: 
+    1px 1px 1px #ffffff,
+    1px 1px 1px #ffffff,                    
+    1px 1px 1px #ffffff,                 
+    1px 0px 1px #ffffff;
+}
+.bloco2{
+    display: flex;
+    flex-direction: column;
+    width: 19%;
+    background-color: #000000;
+    margin-top: -28%;
+    margin-left: 40%;
+    padding-top: 28%;
+    border-radius: 20px;
+}
+.img2{
+    width: 82%;
+    margin-left: 11%;
+    margin-top: -135%;
+}
+.samsung{
+    width: 75%;
+    margin-left: 13%;
+    margin-top: 5%;
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 90%;
+}
+.preço2{
+    text-align: center;
+    margin-top: 15%;
+    font-size: 120%;
+    color: white;
+    text-shadow: 
+    1px 1px 1px #ffffff,
+    1px 1px 1px #ffffff,                    
+    1px 1px 1px #ffffff,                 
+    1px 0px 1px #ffffff;
+}
+.bloco3{
+    display: flex;
+    flex-direction: column;
+    width: 19%;
+    background-color: #000000;
+    margin-top: -28%;
+    margin-left: 76%;
+    padding-top: 28%;
+    border-radius: 20px;
+}
+.img3{
+    width: 82%;
+    margin-left: 11%;
+    margin-top: -135%;
+}
+.motorola{
+    width: 75%;
+    margin-left: 13%;
+    margin-top: 5%;
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 90%;
+}
+.preço3{
+    text-align: center;
+    margin-top: 15%;
+    font-size: 120%;
+    color: white;
+    text-shadow: 
+    1px 1px 1px #ffffff,
+    1px 1px 1px #ffffff,                    
+    1px 1px 1px #ffffff,                 
+    1px 0px 1px #ffffff;
+}
+.bloco4{
+    display: flex;
+    flex-direction: column;
+    width: 19%;
+    background-color: #000000;
+    margin-top: 10%;
+    margin-left: 5%;
+    padding-top: 28%;
+    border-radius: 20px;
+}
+.img4{
+    width: 82%;
+    margin-left: 11%;
+    margin-top: -135%;
+}
+.fone1{
+    width: 75%;
+    margin-left: 14%;
+    margin-top: 5%;
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 90%;
+}
+.preço4{
+    text-align: center;
+    margin-top: 15%;
+    font-size: 120%;
+    color: white;
+    text-shadow: 
+    1px 1px 1px #ffffff,
+    1px 1px 1px #ffffff,                    
+    1px 1px 1px #ffffff,                 
+    1px 0px 1px #ffffff;
+}
+.bloco5{
+    display: flex;
+    flex-direction: column;
+    width: 19%;
+    background-color: #000000;
+    margin-top: -28%;
+    margin-left: 40%;
+    padding-top: 28%;
+    border-radius: 20px;
+}
+.img5{
+    width: 82%;
+    margin-left: 11%;
+    margin-top: -135%;
+}
+.fone2{
+    width: 75%;
+    margin-left: 13%;
+    margin-top: 5%;
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 90%;
+}
+.preço5{
+    text-align: center;
+    margin-top: 15%;
+    font-size: 120%;
+    color: white;
+    text-shadow: 
+    1px 1px 1px #ffffff,
+    1px 1px 1px #ffffff,                    
+    1px 1px 1px #ffffff,                 
+    1px 0px 1px #ffffff;
+}
+.bloco6{
+    display: flex;
+    flex-direction: column;
+    width: 19%;
+    background-color: #000000;
+    margin-top: -28%;
+    margin-left: 76%;
+    padding-top: 28%;
+    border-radius: 20px;
+}
+.img6{
+    width: 82%;
+    margin-left: 11%;
+    margin-top: -135%;
+}
+.carregador{
+    width: 75%;
+    margin-left: 13%;
+    margin-top: 5%;
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 90%;
+}
+.preço6{
+    text-align: center;
+    margin-top: 15%;
+    font-size: 120%;
+    color: white;
+    text-shadow: 
+    1px 1px 1px #ffffff,
+    1px 1px 1px #ffffff,                    
+    1px 1px 1px #ffffff,                 
+    1px 0px 1px #ffffff;
+}
+.circulo{
+    display: flex;
+    flex-direction: column;
+    width: 2%;
+    height: 10%;
+    background-color: #D9D9D9;
+    border-radius: 50%;
+    padding-top: 6%;
+    padding-left: 5%;
+    margin-top: 10%;
+    margin-left: 45%;
+}
+.seta{
+    margin-top: -190%;
+    margin-left: -100%;
+    font-size: 180%;
+    text-shadow: 
+    1px 1px 1px #000000,
+    1px 1px 1px #000000,                    
+    1px 1px 1px #000000,                 
+    1px 0px 1px #000000;
+}
+@media screen and (max-width: 768px) {
+.fotin{
+    width: 14%;
+    margin-left: 43%;
+}
+.plusmarket{
+    margin-left: 28%;
+}
+.txtBusca{
+    margin-top: 2.5%;
+}
+.lupa{
+    margin-right: 30%;
+    margin-left: 90%;
+}
+.centro{
+    width: 95%;
+    padding-bottom: 10%;
+    margin-left: 3%;
+}
+.bloco1{
+    width: 25%;
+    margin-left: 9%;
+    margin-top: -60%;
+    padding-top: 30.5%;
+    padding-bottom: 1%;
+}
+.img1{
+    width: 68%;
+    margin-top: -110%; 
+    margin-bottom: 30%;
+    margin-left: 15%;
+}
+.apple{
+    font-size: 80%;
+    margin-top: -17%; 
+}
+.preço1{
+    font-size: 105%;
+    margin-top: 27%;
+}
+.bloco2{
+    width: 25%;
+    margin-left: 65%;
+    margin-top: -39%;
+    padding-top: 18.5%;
+    padding-bottom: 1%;
+}
+.img2{
+    width: 68%;
+    margin-top: -65%; 
+    margin-bottom: 30%;
+    margin-left: 15%; 
+}
+.samsung{
+    font-size: 80%;
+    margin-top: -17%;
+}
+.preço2{
+    font-size: 105%;
+    margin-top: 17%;
+}
+.bloco3{
+    width: 25%;
+    margin-left: 9%;
+    margin-top: 17%;
+    margin-bottom: -7.5%;
+    padding-top: 18.5%;
+}
+.img3{
+    width: 68%;
+    margin-top: -65%; 
+    margin-bottom: 30%;
+    margin-left: 15%;
+}
+.motorola{
+    font-size: 80%;
+    margin-top: -17%;
+}
+.preço3{
+    font-size: 105%;
+    margin-top: 17%;
+}
+.bloco4{
+    width: 25%;
+    margin-top: -30.7%;
+    margin-left: 65%;
+    padding-top: 20%;
+}
+.img4{
+    width: 68%;
+    margin-top: -65%; 
+    margin-bottom: 30%;
+    margin-left: 15%;
+}
+.fone1{
+    font-size: 80%;
+    margin-top: -17%;
+}
+.preço4{
+    font-size: 105%;
+    margin-top: 27%;
+}
+.bloco5{
+    width: 25%;
+    padding-top: 30.5%;
+    padding-bottom: 2.5%;
+    margin-top: 15%;
+    margin-left: 9%;
+}
+.img5{
+    width: 68%;
+    margin-top: -110%;
+    margin-bottom: 29%;
+    margin-left: 15%;
+}
+.fone2{
+    font-size: 80%;
+    margin-top: -17%;
+}
+.preço5{
+    font-size: 105%;
+    margin-top: 27%;
+}
+.bloco6{
+    width: 25%;
+    padding-bottom: 1.5%;
+    margin-top: -39%;
+    margin-left: 65%;
+}
+.img6{
+    width: 68%;
+    margin-top: -100%;
+    margin-bottom: 29%;
+}
+.carregador{
+    font-size: 80%;
+    margin-top: -17%;
+}
+.preço6{
+    font-size: 105%;
+    margin-top: 17%;
+}
+.seta{
+    margin-left: -110%;
+    margin-top: -160%;
+}
+}
+@media screen and (max-width: 580px) {
+    .plusmarket{
+        font-size: 250%;
+    }
+    .txtBusca{
+        margin-top: 3%;
+    } 
+    .lupa{
+        margin-left: 87%;
+    }
+    .bloco1{
+        padding-bottom: 5%;
+        padding-left: 60%;
+        margin-left: 8%;
+        margin-bottom: 8%; 
+    }
+    .img1{
+        width: 120%;
+        margin-left: -220%;
+        margin-top: -95%;
+        padding-bottom: 110%;
+    }
+    .apple{
+        text-align:center;
+        width: 100%;
+        margin-top: -230%;
+        margin-left: -30%;
+        font-size: 110%;
+    }
+    .preço1{
+        margin-top: 20%;
+        margin-left: -60%;
+        font-size: 140%;
+    }
+    .bloco2{
+        padding-bottom: 5%;
+        padding-left: 60%;
+        margin-top: 1%;
+        margin-left: 8%;
+        margin-bottom: 8%; 
+    }
+    .img2{
+        width: 120%;
+        margin-left: -220%;
+        margin-top: -50%;
+        padding-bottom: 100%;
+    }
+    .samsung{
+        text-align:center;
+        width: 100%;
+        margin-top: -220%;
+        margin-left: -30%;
+        font-size: 110%;
+    }
+    .preço2{
+        margin-top: 20%;
+        margin-left: -60%;
+        font-size: 140%;
+    }
+    .bloco3{
+        padding-bottom: 5%;
+        padding-left: 60%;
+        margin-top: 1%;
+        margin-left: 8%;
+        margin-bottom: 8%;
+    }
+    .img3{
+        width: 120%;
+        margin-left: -220%;
+        margin-top: -50%;
+        padding-bottom: 95%;
+    }
+    .motorola{
+        text-align:center;
+        width: 100%;
+        margin-top: -220%;
+        margin-left: -30%;
+        font-size: 110%;
+    }
+    .preço3{
+        margin-top: 20%;
+        margin-left: -60%;
+        font-size: 140%;
+    }
+    .bloco4{
+        padding-bottom: 5%;
+        padding-left: 60%;
+        margin-top: 4%;
+        margin-left: 8%;
+    }
+    .img4{
+        width: 120%;
+        margin-left: -220%;
+        margin-top: -50%;
+        padding-bottom: 95%;
+    }
+    .fone1{
+        text-align:center;
+        width: 100%;
+        margin-top: -220%;
+        margin-left: -30%;
+        font-size: 110%;
+    }
+    .preço4{
+        margin-top: 20%;
+        margin-left: -60%;
+        font-size: 140%;
+    }
+    .bloco5{
+        padding-bottom: 5%;
+        padding-left: 60%;
+        margin-left: 8%;
+        margin-top: 13%;
+    }
+    .img5{
+        width: 120%;
+        margin-left: -220%;
+        margin-top: -90%;
+        padding-bottom: 95%;
+    }
+    .fone2{
+        text-align:center;
+        width: 100%;
+        margin-top: -220%;
+        margin-left: -30%;
+        font-size: 110%;
+    }
+    .preço5{
+        margin-top: 20%;
+        margin-left: -60%;
+        font-size: 140%;
+    }
+    .bloco6{
+        padding-bottom: 5%;
+        padding-left: 60%;
+        margin-top: 10%;
+        margin-left: 8%;
+    }
+    .img6{
+        width: 120%;
+        margin-left: -220%;
+        margin-top: -90%;
+        padding-bottom: 115%;
+    }
+    .carregador{
+        text-align:center;
+        width: 100%;
+        margin-top: -240%;
+        margin-left: -30%;
+        font-size: 110%;
+    }
+    .preço6{
+        margin-top: 10%;
+        margin-left: -60%;
+        font-size: 140%;
+    }
+    .circulo{
+        width: 3%;
+    }
+    .seta{
+        margin-left: -100%;
+    }
+}
+@media screen and (max-width: 320px) {
+    .plusmarket{
+        font-size: 210%;
+        margin-left:18%;
+        white-space:nowrap; 
+    }
+    .dropdown ul li a{
+        font-size: 120%;
+    }
+    .txtBusca{
+        font-size: 110%;
+        margin-top: 5%;
+    }
+    .lupa{
+        margin-left: 80%;
+    }
+    .img1{
+        width: 120%;
+        margin-top: -65%;
+        margin-bottom: 10%;
+    }
+    .apple{
+        font-size: 90%;
+    }
+    .preço1{
+        font-size: 110%;
+    }
+    .img2{
+        width: 120%;
+        margin-top: -25%;
+        margin-bottom: 10%;
+    }
+    .samsung{
+        font-size: 90%;
+    }
+    .preço2{
+        font-size: 110%;
+    }
+    .img3{
+        width: 120%;
+        margin-top: -25%;
+        margin-bottom: 10%;
+    }
+    .motorola{
+        font-size: 90%;
+    }
+    .preço3{
+        font-size: 110%;
+    }
+    .img4{
+        width: 120%;
+        margin-top: -30%;
+        margin-bottom: 15%;
+    }
+    .fone1{
+        font-size: 90%;
+    }
+    .preço4{
+        font-size: 110%;
+    }
+    .img5{
+        width: 120%;
+        margin-top: -75%;
+        margin-bottom: 10%;
+    }
+    .fone2{
+        font-size: 90%;
+    }
+    .preço5{
+        font-size: 110%;
+    }
+    .img6{
+        width: 120%;
+        margin-top: -55%;
+        margin-bottom: 10%;
+    }
+    .carregador{
+        font-size: 90%;
+    }
+    .preço6{
+        font-size: 110%;
+    }
+    .seta{
+        padding-right: 95%;
+    }
+}
